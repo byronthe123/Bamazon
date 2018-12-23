@@ -34,7 +34,7 @@ Use NPM to install all required dependencies:
 
   
 
-npm install
+`npm install`
 
   
 
